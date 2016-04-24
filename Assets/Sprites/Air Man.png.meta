@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 2a23f90eef9e946e094fb6ed71c04635
+timeCreated: 1458046614
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Air Man_0
+    21300002: Air Man_1
+    21300004: Air Man_2
+    21300006: Air Man_3
+    21300008: Air Man_4
+    21300010: Air Man_5
+    21300012: Air Man_6
+    21300014: Air Man_7
+    21300016: Air Man_8
+    21300018: Air Man_9
+    21300020: Air Man_10
+    21300022: Air Man_11
+    21300024: Air Man_12
+    21300026: Air Man_13
+    21300028: Air Man_14
+    21300030: Air Man_15
+    21300032: Air Man_16
+    21300034: Air Man_17
+    21300036: Air Man_18
+    21300038: Air Man_19
+    21300040: Air Man_20
+    21300042: Air Man_21
+    21300044: Air Man_22
+    21300046: Air Man_23
+    21300048: Air Man_24
+    21300050: Air Man_25
+    21300052: Air Man_26
+    21300054: Air Man_27
+    21300056: Air Man_28
+    21300058: Air Man_29
+    21300060: Air Man_30
+    21300062: Air Man_31
+    21300064: Air Man_32
+    21300066: Air Man_33
+    21300068: Air Man_34
+    21300070: Air Man_35
+    21300072: Air Man_36
+    21300074: Air Man_37
+    21300076: Air Man_38
+    21300078: Air Man_39
+    21300080: Air Man_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Air Man_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 166
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 163
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 162
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 163
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 119
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 119
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 120
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -14}
+        - {x: -11, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 17}
+    - name: Air Man_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 120
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -13, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: 5}
+        - {x: -13, y: 2}
+        - {x: -11, y: -15}
+        - {x: -9, y: -17}
+        - {x: 15, y: -17}
+        - {x: 16, y: -14}
+        - {x: 16, y: 17}
+    - name: Air Man_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 120
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -16, y: 14}
+        - {x: -16, y: 3}
+        - {x: -14, y: 1}
+        - {x: -9, y: -15}
+        - {x: -6, y: -17}
+        - {x: 8, y: -17}
+        - {x: 16, y: -6}
+        - {x: 16, y: 17}
+    - name: Air Man_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 121
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 121
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 121
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 81
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 81
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 81
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 80
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 80
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -17, y: 10.5}
+        - {x: -17, y: -3.5}
+        - {x: -14, y: -4.5}
+        - {x: -15, y: -13.5}
+        - {x: -14, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 17.5}
+    - name: Air Man_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 80
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17.5}
+        - {x: -17, y: 10.5}
+        - {x: -17, y: -3.5}
+        - {x: -14, y: -4.5}
+        - {x: -15, y: -13.5}
+        - {x: -14, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 17.5}
+    - name: Air Man_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 42
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 41
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16.5}
+        - {x: -16, y: 13.5}
+        - {x: -16, y: -11.5}
+        - {x: -8, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 16, y: -5.5}
+        - {x: 16, y: 13.5}
+        - {x: 15, y: 16.5}
+    - name: Air Man_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16.5}
+        - {x: -16, y: 14.5}
+        - {x: -16, y: -0.5}
+        - {x: -12, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 16, y: -12.5}
+        - {x: 16, y: 12.5}
+        - {x: 15, y: 16.5}
+    - name: Air Man_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 41
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16.5}
+        - {x: -16, y: 14.5}
+        - {x: -16, y: -4.5}
+        - {x: -13, y: -12.5}
+        - {x: -4, y: -16.5}
+        - {x: 13, y: -16.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 12.5}
+        - {x: 13, y: 16.5}
+    - name: Air Man_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 41
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Air Man_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

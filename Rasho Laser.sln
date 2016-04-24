@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9328315C-DB97-63E3-B762-C40ED4C970BC}") = "Rasho Laser", "Assembly-CSharp.csproj", "{101B5A6B-A227-8DB3-9600-EDC38E02C947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101B5A6B-A227-8DB3-9600-EDC38E02C947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101B5A6B-A227-8DB3-9600-EDC38E02C947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101B5A6B-A227-8DB3-9600-EDC38E02C947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101B5A6B-A227-8DB3-9600-EDC38E02C947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
